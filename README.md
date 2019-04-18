@@ -1,0 +1,2 @@
+# RibiRinside
+C++ RInside class
